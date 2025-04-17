@@ -1,0 +1,12 @@
+开发平台：CLion 2024.1.3
+编译步骤：创建CMakeLists.txt，内容如下
+cmake_minimum_required(VERSION 3.28)
+project(multi_thread_server)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(multi_thread_server main.cpp
+        http_server.cpp
+        http_server.h)
+target_link_libraries(multi_thread_server ws2_32 wsock32)
+运行说明：将文件config.ini放在可执行程序的上一级文件夹中，在config.ini配置文件主目录，将文件放在该目录下。

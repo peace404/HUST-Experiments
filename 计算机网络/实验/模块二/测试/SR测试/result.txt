@@ -1,0 +1,1458 @@
+******Ä£ÄâÍøÂç»·¾³******£ºÄ£ÄâÍøÂç»·¾³³õÊ¼»¯...
+******Ä£ÄâÍøÂç»·¾³******£ºÄ£ÄâÍøÂç»·¾³Æô¶¯...
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 29556, AAAAAAAAAAAAAAAAAAAA
+·¢ËÍ·½´°¿Ú£º[1;33m0 [34m1 [34m2 [34m3 [0m4 [0m5 [0m6 [0m7 [0m
+
+³¬Ê±ÖØ´«: seqnum = 0, acknum = -1, checksum = 29556, AAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 29556, AAAAAAAAAAAAAAAAAAAA
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºAAAAAAAAAAAAAAAAAAAA
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½Ã»ÓĞÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 0, checksum = 12851, /...................
+³¬Ê±ÖØ´«: seqnum = 0, acknum = -1, checksum = 29556, AAAAAAAAAAAAAAAAAAAA
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 0, acknum = -1, checksum = 29556, AAAAAAAAAAAAAAAAAAAA
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [34m1 [34m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 26985, BBBBBBBBBBBBBBBBBBBB
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [34m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 24414, CCCCCCCCCCCCCCCCCCCC
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 21843, DDDDDDDDDDDDDDDDDDDD
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 26985, BBBBBBBBBBBBBBBBBBBB
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºBBBBBBBBBBBBBBBBBBBB
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [1;33m3 [1;33m4 [1;33m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+Êı¾İĞ£Ñé´íÎó: seqnum = 2, acknum = -1, checksum = 24414, DCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 21843, DDDDDDDDDDDDDDDDDDDD
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ3£¬rcvbase=2
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [32m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ4£¬rcvbase=2
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+³¬Ê±ÖØ´«: seqnum = 1, acknum = -1, checksum = 26985, BBBBBBBBBBBBBBBBBBBB
+³¬Ê±ÖØ´«: seqnum = 2, acknum = -1, checksum = 24414, CCCCCCCCCCCCCCCCCCCC
+³¬Ê±ÖØ´«: seqnum = 4, acknum = -1, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [32m3 [32m4 [0m5 [0m6 [0m7 [0m
+
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 1, acknum = -1, checksum = 26985, BBBBBBBBBBBBBBBBBBBB
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [32m3 [32m4 [34m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 24414, CCCCCCCCCCCCCCCCCCCC
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºCCCCCCCCCCCCCCCCCCCC
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºDDDDDDDDDDDDDDDDDDDD
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºEEEEEEEEEEEEEEEEEEEE
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [34m5 [34m6 [34m7 [0m
+
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 4, acknum = -1, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 16701, FFFFFFFFFFFFFFFFFFFF
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [34m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 14130, GGGGGGGGGGGGGGGGGGGG
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 11559, HHHHHHHHHHHHHHHHHHHH
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 8996, IIIIIIIIIIIIIIIIIIII
+·¢ËÍ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 14130, GGGGGGGGGGGGGGGGGGGG
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ6£¬rcvbase=5
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 8996, IIIIIIIIIIIIIIIIIIII
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ0£¬rcvbase=5
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [32m6 [1;33m7 [0m
+
+³¬Ê±ÖØ´«: seqnum = 5, acknum = -1, checksum = 16701, FFFFFFFFFFFFFFFFFFFF
+³¬Ê±ÖØ´«: seqnum = 7, acknum = -1, checksum = 11559, HHHHHHHHHHHHHHHHHHHH
+³¬Ê±ÖØ´«: seqnum = 0, acknum = -1, checksum = 8996, IIIIIIIIIIIIIIIIIIII
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½´°¿Ú£º[32m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [32m6 [1;33m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 11559, HHHHHHHHHHHHHHHHHHHH
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ7£¬rcvbase=5
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½´°¿Ú£º[32m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [32m6 [32m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 8996, IIIIIIIIIIIIIIIIIIII
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ0£¬rcvbase=5
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+³¬Ê±ÖØ´«: seqnum = 5, acknum = -1, checksum = 16701, FFFFFFFFFFFFFFFFFFFF
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 16701, FFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºFFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºGGGGGGGGGGGGGGGGGGGG
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºHHHHHHHHHHHHHHHHHHHH
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºIIIIIIIIIIIIIIIIIIII
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½´°¿Ú£º[32m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [32m6 [32m7 [0m
+
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [34m1 [34m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 6425, JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [34m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 3854, KKKKKKKKKKKKKKKKKKKK
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 1283, LLLLLLLLLLLLLLLLLLLL
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 64247, MMMMMMMMMMMMMMMMMMMM
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 6425, JJJJJJJJJJJJJJJJJJJJ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºJJJJJJJJJJJJJJJJJJJJ
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [1;33m3 [1;33m4 [1;33m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 64247, MMMMMMMMMMMMMMMMMMMM
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ4£¬rcvbase=2
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [1;33m3 [1;33m4 [34m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [1;33m3 [32m4 [34m5 [0m6 [0m7 [0m
+
+³¬Ê±ÖØ´«: seqnum = 2, acknum = -1, checksum = 3854, KKKKKKKKKKKKKKKKKKKK
+³¬Ê±ÖØ´«: seqnum = 3, acknum = -1, checksum = 1283, LLLLLLLLLLLLLLLLLLLL
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 3854, KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºKKKKKKKKKKKKKKKKKKKK
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [0m1 [0m2 [34m3 [32m4 [1;33m5 [1;33m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 1283, LLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºLLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºMMMMMMMMMMMMMMMMMMMM
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [0m2 [1;33m3 [32m4 [34m5 [34m6 [0m7 [0m
+
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [34m5 [34m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 61676, NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [34m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 59105, OOOOOOOOOOOOOOOOOOOO
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 56534, PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 53971, QQQQQQQQQQQQQQQQQQQQ
+·¢ËÍ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 61676, NNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºNNNNNNNNNNNNNNNNNNNN
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [1;33m1 [0m2 [0m3 [0m4 [0m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½´°¿Ú£º[1;33m0 [34m1 [0m2 [0m3 [0m4 [0m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 59105, OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºOOOOOOOOOOOOOOOOOOOO
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [1;33m1 [1;33m2 [0m3 [0m4 [0m5 [0m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+Êı¾İĞ£Ñé´íÎó: seqnum = 7, acknum = -1, checksum = 56534, QPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½´°¿Ú£º[1;33m0 [34m1 [34m2 [0m3 [0m4 [0m5 [0m6 [1;33m7 [0m
+
+³¬Ê±ÖØ´«: seqnum = 7, acknum = -1, checksum = 56534, PPPPPPPPPPPPPPPPPPPP
+³¬Ê±ÖØ´«: seqnum = 0, acknum = -1, checksum = 53971, QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 53971, QQQQQQQQQQQQQQQQQQQQ
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ0£¬rcvbase=7
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½´°¿Ú£º[32m0 [34m1 [34m2 [0m3 [0m4 [0m5 [0m6 [1;33m7 [0m
+
+Êı¾İĞ£Ñé´íÎó: seqnum = 7, acknum = -1, checksum = 56534, QPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 53971, QQQQQQQQQQQQQQQQQQQQ
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ0£¬rcvbase=7
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+³¬Ê±ÖØ´«: seqnum = 7, acknum = -1, checksum = 56534, PPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 56534, PPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºPPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºQQQQQQQQQQQQQQQQQQQQ
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [34m1 [34m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 51400, RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [34m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 48829, SSSSSSSSSSSSSSSSSSSS
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 46258, TTTTTTTTTTTTTTTTTTTT
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 51400, RRRRRRRRRRRRRRRRRRRR
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºRRRRRRRRRRRRRRRRRRRR
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [1;33m3 [1;33m4 [1;33m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 48829, SSSSSSSSSSSSSSSSSSSS
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºSSSSSSSSSSSSSSSSSSSS
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [0m1 [0m2 [1;33m3 [1;33m4 [1;33m5 [1;33m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 46258, TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºTTTTTTTTTTTTTTTTTTTT
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [0m1 [0m2 [0m3 [1;33m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½Ã»ÓĞÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 3, checksum = 12848, /...................
+³¬Ê±ÖØ´«: seqnum = 1, acknum = -1, checksum = 51400, RRRRRRRRRRRRRRRRRRRR
+³¬Ê±ÖØ´«: seqnum = 2, acknum = -1, checksum = 48829, SSSSSSSSSSSSSSSSSSSS
+³¬Ê±ÖØ´«: seqnum = 3, acknum = -1, checksum = 46258, TTTTTTTTTTTTTTTTTTTT
+³¬Ê±ÖØ´«: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 1, acknum = -1, checksum = 51400, RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [1;33m3 [1;33m4 [34m5 [0m6 [0m7 [0m
+
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 2, acknum = -1, checksum = 48829, SSSSSSSSSSSSSSSSSSSS
+³¬Ê±ÖØ´«: seqnum = 2, acknum = -1, checksum = 48829, SSSSSSSSSSSSSSSSSSSS
+³¬Ê±ÖØ´«: seqnum = 3, acknum = -1, checksum = 46258, TTTTTTTTTTTTTTTTTTTT
+³¬Ê±ÖØ´«: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 3, acknum = -1, checksum = 46258, TTTTTTTTTTTTTTTTTTTT
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [0m2 [1;33m3 [1;33m4 [34m5 [34m6 [0m7 [0m
+
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [0m2 [0m3 [1;33m4 [34m5 [34m6 [34m7 [0m
+
+Êı¾İĞ£Ñé´íÎó: seqnum = -999999, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 2, acknum = -1, checksum = 48829, SSSSSSSSSSSSSSSSSSSS
+³¬Ê±ÖØ´«: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºUUUUUUUUUUUUUUUUUUUU
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [34m5 [34m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 41116, VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [34m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 38545, WWWWWWWWWWWWWWWWWWWW
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 35974, XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+·¢ËÍ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+Êı¾İĞ£Ñé´íÎó: seqnum = -999999, acknum = -1, checksum = 41116, VVVVVVVVVVVVVVVVVVVV
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 38545, WWWWWWWWWWWWWWWWWWWW
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ6£¬rcvbase=5
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [32m6 [1;33m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ0£¬rcvbase=5
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+³¬Ê±ÖØ´«: seqnum = 5, acknum = -1, checksum = 41116, VVVVVVVVVVVVVVVVVVVV
+³¬Ê±ÖØ´«: seqnum = 7, acknum = -1, checksum = 35974, XXXXXXXXXXXXXXXXXXXX
+³¬Ê±ÖØ´«: seqnum = 0, acknum = -1, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½´°¿Ú£º[32m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [32m6 [1;33m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ0£¬rcvbase=5
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½´°¿Ú£º[32m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [32m6 [1;33m7 [0m
+
+³¬Ê±ÖØ´«: seqnum = 5, acknum = -1, checksum = 41116, VVVVVVVVVVVVVVVVVVVV
+³¬Ê±ÖØ´«: seqnum = 7, acknum = -1, checksum = 35974, XXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 41116, VVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºVVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºWWWWWWWWWWWWWWWWWWWW
+
+½ÓÊÕ·½´°¿Ú£º[32m0 [1;33m1 [1;33m2 [0m3 [0m4 [0m5 [0m6 [34m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 35974, XXXXXXXXXXXXXXXXXXXX
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºXXXXXXXXXXXXXXXXXXXX
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºYYYYYYYYYYYYYYYYYYYY
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½´°¿Ú£º[32m0 [34m1 [34m2 [0m3 [0m4 [0m5 [0m6 [1;33m7 [0m
+
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [34m1 [34m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 30840, ZZZZZZZZZZZZZZZZZZZZ
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [34m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 29554, AAAAAAAAAAAAAAAAAAAA
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 26983, BBBBBBBBBBBBBBBBBBBB
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 24412, CCCCCCCCCCCCCCCCCCCC
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 30840, ZZZZZZZZZZZZZZZZZZZZ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºZZZZZZZZZZZZZZZZZZZZ
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [1;33m3 [1;33m4 [1;33m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 29554, AAAAAAAAAAAAAAAAAAAA
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºAAAAAAAAAAAAAAAAAAAA
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [0m1 [0m2 [1;33m3 [1;33m4 [1;33m5 [1;33m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+³¬Ê±ÖØ´«: seqnum = 1, acknum = -1, checksum = 30840, ZZZZZZZZZZZZZZZZZZZZ
+³¬Ê±ÖØ´«: seqnum = 2, acknum = -1, checksum = 29554, AAAAAAAAAAAAAAAAAAAA
+³¬Ê±ÖØ´«: seqnum = 3, acknum = -1, checksum = 26983, BBBBBBBBBBBBBBBBBBBB
+³¬Ê±ÖØ´«: seqnum = 4, acknum = -1, checksum = 24412, CCCCCCCCCCCCCCCCCCCC
+·¢ËÍ·½Ã»ÓĞÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 2, checksum = 12849, /...................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 26983, BBBBBBBBBBBBBBBBBBBB
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºBBBBBBBBBBBBBBBBBBBB
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [0m1 [0m2 [0m3 [1;33m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 24412, CCCCCCCCCCCCCCCCCCCC
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºCCCCCCCCCCCCCCCCCCCC
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [32m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+³¬Ê±ÖØ´«: seqnum = 1, acknum = -1, checksum = 30840, ZZZZZZZZZZZZZZZZZZZZ
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 1, acknum = -1, checksum = 30840, ZZZZZZZZZZZZZZZZZZZZ
+³¬Ê±ÖØ´«: seqnum = 2, acknum = -1, checksum = 29554, AAAAAAAAAAAAAAAAAAAA
+³¬Ê±ÖØ´«: seqnum = 4, acknum = -1, checksum = 24412, CCCCCCCCCCCCCCCCCCCC
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [32m3 [32m4 [0m5 [0m6 [0m7 [0m
+
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 2, acknum = -1, checksum = 29554, AAAAAAAAAAAAAAAAAAAA
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [32m3 [32m4 [34m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [34m5 [34m6 [34m7 [0m
+
+Êı¾İĞ£Ñé´íÎó: seqnum = 3, acknum = -1, checksum = 26983, CBBBBBBBBBBBBBBBBBBB
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 4, acknum = -1, checksum = 24412, CCCCCCCCCCCCCCCCCCCC
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 1, acknum = -1, checksum = 30840, ZZZZZZZZZZZZZZZZZZZZ
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 2, acknum = -1, checksum = 29554, AAAAAAAAAAAAAAAAAAAA
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 4, acknum = -1, checksum = 24412, CCCCCCCCCCCCCCCCCCCC
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 21841, DDDDDDDDDDDDDDDDDDDD
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [34m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 19270, EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 16699, FFFFFFFFFFFFFFFFFFFF
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+·¢ËÍ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 21841, DDDDDDDDDDDDDDDDDDDD
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºDDDDDDDDDDDDDDDDDDDD
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [1;33m1 [0m2 [0m3 [0m4 [0m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 19270, EEEEEEEEEEEEEEEEEEEE
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºEEEEEEEEEEEEEEEEEEEE
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [1;33m1 [1;33m2 [0m3 [0m4 [0m5 [0m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½´°¿Ú£º[1;33m0 [34m1 [0m2 [0m3 [0m4 [0m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 16699, FFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºFFFFFFFFFFFFFFFFFFFF
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [1;33m1 [1;33m2 [1;33m3 [0m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½´°¿Ú£º[1;33m0 [34m1 [34m2 [0m3 [0m4 [0m5 [0m6 [1;33m7 [0m
+
+³¬Ê±ÖØ´«: seqnum = 7, acknum = -1, checksum = 16699, FFFFFFFFFFFFFFFFFFFF
+³¬Ê±ÖØ´«: seqnum = 0, acknum = -1, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºGGGGGGGGGGGGGGGGGGGG
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½´°¿Ú£º[1;33m0 [34m1 [34m2 [34m3 [0m4 [0m5 [0m6 [0m7 [0m
+
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 7, acknum = -1, checksum = 16699, FFFFFFFFFFFFFFFFFFFF
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [34m1 [34m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 0, acknum = -1, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 11565, HHHHHHHHHHHHHHHHHHHH
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [34m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 8994, IIIIIIIIIIIIIIIIIIII
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 6423, JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 11565, HHHHHHHHHHHHHHHHHHHH
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºHHHHHHHHHHHHHHHHHHHH
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [1;33m3 [1;33m4 [1;33m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [1;33m3 [1;33m4 [34m5 [0m6 [0m7 [0m
+
+Êı¾İĞ£Ñé´íÎó: seqnum = 2, acknum = -1, checksum = 8994, JIIIIIIIIIIIIIIIIIII
+Êı¾İĞ£Ñé´íÎó: seqnum = 3, acknum = -1, checksum = 6423, KJJJJJJJJJJJJJJJJJJJ
+³¬Ê±ÖØ´«: seqnum = 2, acknum = -1, checksum = 8994, IIIIIIIIIIIIIIIIIIII
+³¬Ê±ÖØ´«: seqnum = 3, acknum = -1, checksum = 6423, JJJJJJJJJJJJJJJJJJJJ
+³¬Ê±ÖØ´«: seqnum = 4, acknum = -1, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ4£¬rcvbase=2
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [1;33m3 [32m4 [34m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 8994, IIIIIIIIIIIIIIIIIIII
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºIIIIIIIIIIIIIIIIIIII
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [0m1 [0m2 [34m3 [32m4 [1;33m5 [1;33m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [0m2 [1;33m3 [32m4 [34m5 [34m6 [0m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 6423, JJJJJJJJJJJJJJJJJJJJ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºJJJJJJJJJJJJJJJJJJJJ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºKKKKKKKKKKKKKKKKKKKK
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [34m5 [34m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 1281, LLLLLLLLLLLLLLLLLLLL
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [34m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 64245, MMMMMMMMMMMMMMMMMMMM
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 61674, NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 59111, OOOOOOOOOOOOOOOOOOOO
+·¢ËÍ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+Êı¾İĞ£Ñé´íÎó: seqnum = 5, acknum = -1, checksum = 1281, MLLLLLLLLLLLLLLLLLLL
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 64245, MMMMMMMMMMMMMMMMMMMM
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ6£¬rcvbase=5
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [32m6 [1;33m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 59111, OOOOOOOOOOOOOOOOOOOO
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ0£¬rcvbase=5
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½´°¿Ú£º[32m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [32m6 [1;33m7 [0m
+
+³¬Ê±ÖØ´«: seqnum = 5, acknum = -1, checksum = 1281, LLLLLLLLLLLLLLLLLLLL
+³¬Ê±ÖØ´«: seqnum = 7, acknum = -1, checksum = 61674, NNNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 1281, LLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºLLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºMMMMMMMMMMMMMMMMMMMM
+
+½ÓÊÕ·½´°¿Ú£º[32m0 [1;33m1 [1;33m2 [0m3 [0m4 [0m5 [0m6 [34m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½´°¿Ú£º[32m0 [34m1 [34m2 [0m3 [0m4 [0m5 [0m6 [1;33m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 61674, NNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºNNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºOOOOOOOOOOOOOOOOOOOO
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+³¬Ê±ÖØ´«: seqnum = 7, acknum = -1, checksum = 61674, NNNNNNNNNNNNNNNNNNNN
+Êı¾İĞ£Ñé´íÎó: seqnum = -999999, acknum = -1, checksum = 61674, NNNNNNNNNNNNNNNNNNNN
+³¬Ê±ÖØ´«: seqnum = 7, acknum = -1, checksum = 61674, NNNNNNNNNNNNNNNNNNNN
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 7, acknum = -1, checksum = 61674, NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [34m1 [34m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 56540, PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [34m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 53969, QQQQQQQQQQQQQQQQQQQQ
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 51398, RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 48827, SSSSSSSSSSSSSSSSSSSS
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+Êı¾İĞ£Ñé´íÎó: seqnum = 1, acknum = -1, checksum = 56540, QPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 53969, QQQQQQQQQQQQQQQQQQQQ
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ2£¬rcvbase=1
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [32m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+³¬Ê±ÖØ´«: seqnum = 1, acknum = -1, checksum = 56540, PPPPPPPPPPPPPPPPPPPP
+³¬Ê±ÖØ´«: seqnum = 3, acknum = -1, checksum = 51398, RRRRRRRRRRRRRRRRRRRR
+³¬Ê±ÖØ´«: seqnum = 4, acknum = -1, checksum = 48827, SSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 51398, RRRRRRRRRRRRRRRRRRRR
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ3£¬rcvbase=1
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 48827, SSSSSSSSSSSSSSSSSSSS
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ4£¬rcvbase=1
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [32m2 [1;33m3 [32m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 51398, RRRRRRRRRRRRRRRRRRRR
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ3£¬rcvbase=1
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [32m2 [32m3 [32m4 [0m5 [0m6 [0m7 [0m
+
+³¬Ê±ÖØ´«: seqnum = 1, acknum = -1, checksum = 56540, PPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 48827, SSSSSSSSSSSSSSSSSSSS
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ4£¬rcvbase=1
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [32m2 [32m3 [32m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 56540, PPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºPPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºQQQQQQQQQQQQQQQQQQQQ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºRRRRRRRRRRRRRRRRRRRR
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºSSSSSSSSSSSSSSSSSSSS
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [34m5 [34m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 46256, TTTTTTTTTTTTTTTTTTTT
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [34m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 43685, UUUUUUUUUUUUUUUUUUUU
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 41114, VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 38551, WWWWWWWWWWWWWWWWWWWW
+·¢ËÍ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 46256, TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºTTTTTTTTTTTTTTTTTTTT
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [1;33m1 [0m2 [0m3 [0m4 [0m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 43685, UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºUUUUUUUUUUUUUUUUUUUU
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [1;33m1 [1;33m2 [0m3 [0m4 [0m5 [0m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [32m6 [1;33m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 41114, VVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºVVVVVVVVVVVVVVVVVVVV
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [1;33m1 [1;33m2 [1;33m3 [0m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+³¬Ê±ÖØ´«: seqnum = 5, acknum = -1, checksum = 46256, TTTTTTTTTTTTTTTTTTTT
+³¬Ê±ÖØ´«: seqnum = 7, acknum = -1, checksum = 41114, VVVVVVVVVVVVVVVVVVVV
+³¬Ê±ÖØ´«: seqnum = 0, acknum = -1, checksum = 38551, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 38551, WWWWWWWWWWWWWWWWWWWW
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºWWWWWWWWWWWWWWWWWWWW
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [32m6 [32m7 [0m
+
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½´°¿Ú£º[32m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [32m6 [32m7 [0m
+
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 5, acknum = -1, checksum = 46256, TTTTTTTTTTTTTTTTTTTT
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [34m1 [34m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 7, acknum = -1, checksum = 41114, VVVVVVVVVVVVVVVVVVVV
+Êı¾İĞ£Ñé´íÎó: seqnum = 0, acknum = -1, checksum = 38551, XWWWWWWWWWWWWWWWWWWW
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 35980, XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [34m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 33409, YYYYYYYYYYYYYYYYYYYY
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 30838, ZZZZZZZZZZZZZZZZZZZZ
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 29552, AAAAAAAAAAAAAAAAAAAA
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 35980, XXXXXXXXXXXXXXXXXXXX
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºXXXXXXXXXXXXXXXXXXXX
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [1;33m3 [1;33m4 [1;33m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 33409, YYYYYYYYYYYYYYYYYYYY
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºYYYYYYYYYYYYYYYYYYYY
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [0m1 [0m2 [1;33m3 [1;33m4 [1;33m5 [1;33m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 29552, AAAAAAAAAAAAAAAAAAAA
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ4£¬rcvbase=3
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [1;33m3 [1;33m4 [34m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [0m2 [1;33m3 [1;33m4 [34m5 [34m6 [0m7 [0m
+
+³¬Ê±ÖØ´«: seqnum = 3, acknum = -1, checksum = 30838, ZZZZZZZZZZZZZZZZZZZZ
+³¬Ê±ÖØ´«: seqnum = 4, acknum = -1, checksum = 29552, AAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 30838, ZZZZZZZZZZZZZZZZZZZZ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºZZZZZZZZZZZZZZZZZZZZ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºAAAAAAAAAAAAAAAAAAAA
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [0m2 [1;33m3 [32m4 [34m5 [34m6 [0m7 [0m
+
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [34m5 [34m6 [34m7 [0m
+
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 4, acknum = -1, checksum = 29552, AAAAAAAAAAAAAAAAAAAA
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 26981, BBBBBBBBBBBBBBBBBBBB
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [34m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 24410, CCCCCCCCCCCCCCCCCCCC
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 21839, DDDDDDDDDDDDDDDDDDDD
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 19276, EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 26981, BBBBBBBBBBBBBBBBBBBB
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºBBBBBBBBBBBBBBBBBBBB
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [1;33m1 [0m2 [0m3 [0m4 [0m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½´°¿Ú£º[1;33m0 [34m1 [0m2 [0m3 [0m4 [0m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 24410, CCCCCCCCCCCCCCCCCCCC
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºCCCCCCCCCCCCCCCCCCCC
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [1;33m1 [1;33m2 [0m3 [0m4 [0m5 [0m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+³¬Ê±ÖØ´«: seqnum = 6, acknum = -1, checksum = 24410, CCCCCCCCCCCCCCCCCCCC
+³¬Ê±ÖØ´«: seqnum = 7, acknum = -1, checksum = 21839, DDDDDDDDDDDDDDDDDDDD
+³¬Ê±ÖØ´«: seqnum = 0, acknum = -1, checksum = 19276, EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½´°¿Ú£º[1;33m0 [34m1 [34m2 [0m3 [0m4 [0m5 [0m6 [1;33m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 21839, DDDDDDDDDDDDDDDDDDDD
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºDDDDDDDDDDDDDDDDDDDD
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [1;33m1 [1;33m2 [1;33m3 [0m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½´°¿Ú£º[1;33m0 [34m1 [34m2 [34m3 [0m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 19276, EEEEEEEEEEEEEEEEEEEE
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºEEEEEEEEEEEEEEEEEEEE
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 6, acknum = -1, checksum = 24410, CCCCCCCCCCCCCCCCCCCC
+Êı¾İĞ£Ñé´íÎó: seqnum = 7, acknum = -1, checksum = 21839, EDDDDDDDDDDDDDDDDDDD
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [34m1 [34m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 0, acknum = -1, checksum = 19276, EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 16705, FFFFFFFFFFFFFFFFFFFF
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [34m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 14134, GGGGGGGGGGGGGGGGGGGG
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 11563, HHHHHHHHHHHHHHHHHHHH
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 8992, IIIIIIIIIIIIIIIIIIII
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 16705, FFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºFFFFFFFFFFFFFFFFFFFF
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [1;33m3 [1;33m4 [1;33m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [1;33m3 [1;33m4 [34m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 11563, HHHHHHHHHHHHHHHHHHHH
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ3£¬rcvbase=2
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [32m3 [1;33m4 [34m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 8992, IIIIIIIIIIIIIIIIIIII
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ4£¬rcvbase=2
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [32m3 [32m4 [34m5 [0m6 [0m7 [0m
+
+³¬Ê±ÖØ´«: seqnum = 2, acknum = -1, checksum = 14134, GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 14134, GGGGGGGGGGGGGGGGGGGG
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºGGGGGGGGGGGGGGGGGGGG
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºHHHHHHHHHHHHHHHHHHHH
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºIIIIIIIIIIIIIIIIIIII
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [34m5 [34m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 6421, JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [34m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 3850, KKKKKKKKKKKKKKKKKKKK
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 1279, LLLLLLLLLLLLLLLLLLLL
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+·¢ËÍ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 6421, JJJJJJJJJJJJJJJJJJJJ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºJJJJJJJJJJJJJJJJJJJJ
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [1;33m1 [0m2 [0m3 [0m4 [0m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 3850, KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºKKKKKKKKKKKKKKKKKKKK
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [1;33m1 [1;33m2 [0m3 [0m4 [0m5 [0m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [32m6 [1;33m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 1279, LLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºLLLLLLLLLLLLLLLLLLLL
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [1;33m1 [1;33m2 [1;33m3 [0m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [32m6 [32m7 [0m
+
+³¬Ê±ÖØ´«: seqnum = 5, acknum = -1, checksum = 6421, JJJJJJJJJJJJJJJJJJJJ
+³¬Ê±ÖØ´«: seqnum = 0, acknum = -1, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºMMMMMMMMMMMMMMMMMMMM
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+Êı¾İĞ£Ñé´íÎó: seqnum = -999999, acknum = -1, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½´°¿Ú£º[32m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [32m6 [32m7 [0m
+
+³¬Ê±ÖØ´«: seqnum = 5, acknum = -1, checksum = 6421, JJJJJJJJJJJJJJJJJJJJ
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 5, acknum = -1, checksum = 6421, JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [34m1 [34m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 61680, NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [34m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 59109, OOOOOOOOOOOOOOOOOOOO
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 59109, OOOOOOOOOOOOOOOOOOOO
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ2£¬rcvbase=1
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+Êı¾İĞ£Ñé´íÎó: seqnum = 4, acknum = -1, checksum = 53967, RQQQQQQQQQQQQQQQQQQQ
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [32m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+³¬Ê±ÖØ´«: seqnum = 1, acknum = -1, checksum = 61680, NNNNNNNNNNNNNNNNNNNN
+³¬Ê±ÖØ´«: seqnum = 3, acknum = -1, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+³¬Ê±ÖØ´«: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 61680, NNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºNNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºOOOOOOOOOOOOOOOOOOOO
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [0m1 [0m2 [1;33m3 [1;33m4 [1;33m5 [1;33m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºPPPPPPPPPPPPPPPPPPPP
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [0m1 [0m2 [0m3 [1;33m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºQQQQQQQQQQQQQQQQQQQQ
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [0m2 [1;33m3 [1;33m4 [34m5 [34m6 [0m7 [0m
+
+³¬Ê±ÖØ´«: seqnum = 3, acknum = -1, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+³¬Ê±ÖØ´«: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 3, acknum = -1, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [0m2 [0m3 [1;33m4 [34m5 [34m6 [34m7 [0m
+
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [34m5 [34m6 [34m7 [0m
+
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 51396, RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [34m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 48825, SSSSSSSSSSSSSSSSSSSS
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 46254, TTTTTTTTTTTTTTTTTTTT
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 43691, UUUUUUUUUUUUUUUUUUUU
+·¢ËÍ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 51396, RRRRRRRRRRRRRRRRRRRR
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºRRRRRRRRRRRRRRRRRRRR
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [1;33m1 [0m2 [0m3 [0m4 [0m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 48825, SSSSSSSSSSSSSSSSSSSS
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºSSSSSSSSSSSSSSSSSSSS
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [1;33m1 [1;33m2 [0m3 [0m4 [0m5 [0m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 46254, TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºTTTTTTTTTTTTTTTTTTTT
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [1;33m1 [1;33m2 [1;33m3 [0m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+³¬Ê±ÖØ´«: seqnum = 5, acknum = -1, checksum = 51396, RRRRRRRRRRRRRRRRRRRR
+³¬Ê±ÖØ´«: seqnum = 6, acknum = -1, checksum = 48825, SSSSSSSSSSSSSSSSSSSS
+³¬Ê±ÖØ´«: seqnum = 7, acknum = -1, checksum = 46254, TTTTTTTTTTTTTTTTTTTT
+³¬Ê±ÖØ´«: seqnum = 0, acknum = -1, checksum = 43691, UUUUUUUUUUUUUUUUUUUU
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [32m6 [1;33m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 43691, UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºUUUUUUUUUUUUUUUUUUUU
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 5, acknum = -1, checksum = 51396, RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½Ã»ÓĞÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 7, checksum = 12844, /...................
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 6, acknum = -1, checksum = 48825, SSSSSSSSSSSSSSSSSSSS
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½´°¿Ú£º[32m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [32m6 [1;33m7 [0m
+
+³¬Ê±ÖØ´«: seqnum = 5, acknum = -1, checksum = 51396, RRRRRRRRRRRRRRRRRRRR
+³¬Ê±ÖØ´«: seqnum = 7, acknum = -1, checksum = 46254, TTTTTTTTTTTTTTTTTTTT
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 7, acknum = -1, checksum = 46254, TTTTTTTTTTTTTTTTTTTT
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½´°¿Ú£º[32m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [32m6 [1;33m7 [0m
+
+Êı¾İĞ£Ñé´íÎó: seqnum = 0, acknum = -1, checksum = 43691, VUUUUUUUUUUUUUUUUUUU
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½´°¿Ú£º[32m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [32m6 [32m7 [0m
+
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 5, acknum = -1, checksum = 51396, RRRRRRRRRRRRRRRRRRRR
+³¬Ê±ÖØ´«: seqnum = 5, acknum = -1, checksum = 51396, RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½Ã»ÓĞÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, /...................
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 7, acknum = -1, checksum = 46254, TTTTTTTTTTTTTTTTTTTT
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 5, acknum = -1, checksum = 51396, RRRRRRRRRRRRRRRRRRRR
+³¬Ê±ÖØ´«: seqnum = 5, acknum = -1, checksum = 51396, RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [34m1 [34m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 5, acknum = -1, checksum = 51396, RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½Ã»ÓĞÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, /...................
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 41120, VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [34m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 38549, WWWWWWWWWWWWWWWWWWWW
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 41120, VVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºVVVVVVVVVVVVVVVVVVVV
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [1;33m3 [1;33m4 [1;33m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 38549, WWWWWWWWWWWWWWWWWWWW
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºWWWWWWWWWWWWWWWWWWWW
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [0m1 [0m2 [1;33m3 [1;33m4 [1;33m5 [1;33m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+³¬Ê±ÖØ´«: seqnum = 1, acknum = -1, checksum = 41120, VVVVVVVVVVVVVVVVVVVV
+³¬Ê±ÖØ´«: seqnum = 2, acknum = -1, checksum = 38549, WWWWWWWWWWWWWWWWWWWW
+³¬Ê±ÖØ´«: seqnum = 3, acknum = -1, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [1;33m3 [1;33m4 [34m5 [0m6 [0m7 [0m
+
+³¬Ê±ÖØ´«: seqnum = 4, acknum = -1, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [0m2 [1;33m3 [1;33m4 [34m5 [34m6 [0m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºXXXXXXXXXXXXXXXXXXXX
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [0m1 [0m2 [0m3 [1;33m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [0m2 [0m3 [1;33m4 [34m5 [34m6 [34m7 [0m
+
+Êı¾İĞ£Ñé´íÎó: seqnum = 4, acknum = -1, checksum = 33407, ZYYYYYYYYYYYYYYYYYYY
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 1, acknum = -1, checksum = 41120, VVVVVVVVVVVVVVVVVVVV
+³¬Ê±ÖØ´«: seqnum = 4, acknum = -1, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+·¢ËÍ·½Ã»ÓĞÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, /...................
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 2, acknum = -1, checksum = 38549, WWWWWWWWWWWWWWWWWWWW
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 3, acknum = -1, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºYYYYYYYYYYYYYYYYYYYY
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 4, acknum = -1, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+·¢ËÍ·½Ã»ÓĞÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 4, checksum = 12847, /...................
+³¬Ê±ÖØ´«: seqnum = 4, acknum = -1, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 4, acknum = -1, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [34m5 [34m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 30836, ZZZZZZZZZZZZZZZZZZZZ
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [34m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 29550, AAAAAAAAAAAAAAAAAAAA
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 26979, BBBBBBBBBBBBBBBBBBBB
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+·¢ËÍ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 30836, ZZZZZZZZZZZZZZZZZZZZ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºZZZZZZZZZZZZZZZZZZZZ
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [1;33m1 [0m2 [0m3 [0m4 [0m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 29550, AAAAAAAAAAAAAAAAAAAA
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºAAAAAAAAAAAAAAAAAAAA
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [1;33m1 [1;33m2 [0m3 [0m4 [0m5 [0m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½´°¿Ú£º[1;33m0 [34m1 [0m2 [0m3 [0m4 [0m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 26979, BBBBBBBBBBBBBBBBBBBB
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºBBBBBBBBBBBBBBBBBBBB
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [1;33m1 [1;33m2 [1;33m3 [0m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+³¬Ê±ÖØ´«: seqnum = 6, acknum = -1, checksum = 29550, AAAAAAAAAAAAAAAAAAAA
+³¬Ê±ÖØ´«: seqnum = 7, acknum = -1, checksum = 26979, BBBBBBBBBBBBBBBBBBBB
+³¬Ê±ÖØ´«: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºCCCCCCCCCCCCCCCCCCCC
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½´°¿Ú£º[1;33m0 [34m1 [34m2 [0m3 [0m4 [0m5 [0m6 [1;33m7 [0m
+
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 6, acknum = -1, checksum = 29550, AAAAAAAAAAAAAAAAAAAA
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½´°¿Ú£º[1;33m0 [34m1 [34m2 [34m3 [0m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [34m1 [34m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 21845, DDDDDDDDDDDDDDDDDDDD
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [34m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 19274, EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 16703, FFFFFFFFFFFFFFFFFFFF
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 14132, GGGGGGGGGGGGGGGGGGGG
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 21845, DDDDDDDDDDDDDDDDDDDD
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºDDDDDDDDDDDDDDDDDDDD
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [1;33m3 [1;33m4 [1;33m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [1;33m3 [1;33m4 [34m5 [0m6 [0m7 [0m
+
+Êı¾İĞ£Ñé´íÎó: seqnum = -999999, acknum = -1, checksum = 19274, EEEEEEEEEEEEEEEEEEEE
+³¬Ê±ÖØ´«: seqnum = 2, acknum = -1, checksum = 19274, EEEEEEEEEEEEEEEEEEEE
+³¬Ê±ÖØ´«: seqnum = 3, acknum = -1, checksum = 16703, FFFFFFFFFFFFFFFFFFFF
+³¬Ê±ÖØ´«: seqnum = 4, acknum = -1, checksum = 14132, GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 16703, FFFFFFFFFFFFFFFFFFFF
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ3£¬rcvbase=2
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 14132, GGGGGGGGGGGGGGGGGGGG
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ4£¬rcvbase=2
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [32m3 [1;33m4 [34m5 [0m6 [0m7 [0m
+
+Êı¾İĞ£Ñé´íÎó: seqnum = -999999, acknum = -1, checksum = 19274, EEEEEEEEEEEEEEEEEEEE
+³¬Ê±ÖØ´«: seqnum = 2, acknum = -1, checksum = 19274, EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [32m3 [32m4 [34m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 16703, FFFFFFFFFFFFFFFFFFFF
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ3£¬rcvbase=2
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 14132, GGGGGGGGGGGGGGGGGGGG
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ4£¬rcvbase=2
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [32m3 [32m4 [34m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½Ã»ÓĞÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 4, checksum = 12847, /...................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 19274, EEEEEEEEEEEEEEEEEEEE
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºEEEEEEEEEEEEEEEEEEEE
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºFFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºGGGGGGGGGGGGGGGGGGGG
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+³¬Ê±ÖØ´«: seqnum = 2, acknum = -1, checksum = 19274, EEEEEEEEEEEEEEEEEEEE
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 2, acknum = -1, checksum = 19274, EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [34m5 [34m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 11561, HHHHHHHHHHHHHHHHHHHH
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [34m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 8990, IIIIIIIIIIIIIIIIIIII
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 6419, JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 3856, KKKKKKKKKKKKKKKKKKKK
+·¢ËÍ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 11561, HHHHHHHHHHHHHHHHHHHH
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºHHHHHHHHHHHHHHHHHHHH
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [1;33m1 [0m2 [0m3 [0m4 [0m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+Êı¾İĞ£Ñé´íÎó: seqnum = 6, acknum = -999999, checksum = 8990, IIIIIIIIIIIIIIIIIIII
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½´°¿Ú£º[1;33m0 [34m1 [0m2 [0m3 [0m4 [0m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 6419, JJJJJJJJJJJJJJJJJJJJ
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ7£¬rcvbase=6
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+³¬Ê±ÖØ´«: seqnum = 6, acknum = -1, checksum = 8990, IIIIIIIIIIIIIIIIIIII
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½´°¿Ú£º[1;33m0 [34m1 [0m2 [0m3 [0m4 [0m5 [1;33m6 [32m7 [0m
+
+³¬Ê±ÖØ´«: seqnum = 0, acknum = -1, checksum = 3856, KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 3856, KKKKKKKKKKKKKKKKKKKK
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ0£¬rcvbase=6
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½´°¿Ú£º[32m0 [34m1 [0m2 [0m3 [0m4 [0m5 [1;33m6 [32m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 8990, IIIIIIIIIIIIIIIIIIII
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºIIIIIIIIIIIIIIIIIIII
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºJJJJJJJJJJJJJJJJJJJJ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºKKKKKKKKKKKKKKKKKKKK
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [34m1 [34m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+Êı¾İĞ£Ñé´íÎó: seqnum = 0, acknum = -1, checksum = 3856, LKKKKKKKKKKKKKKKKKKK
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 1285, LLLLLLLLLLLLLLLLLLLL
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [34m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 64249, MMMMMMMMMMMMMMMMMMMM
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 61678, NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+Êı¾İĞ£Ñé´íÎó: seqnum = 1, acknum = -1, checksum = 1285, MLLLLLLLLLLLLLLLLLLL
+Êı¾İĞ£Ñé´íÎó: seqnum = 2, acknum = -1, checksum = 64249, NMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 61678, NNNNNNNNNNNNNNNNNNNN
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ3£¬rcvbase=1
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+³¬Ê±ÖØ´«: seqnum = 1, acknum = -1, checksum = 1285, LLLLLLLLLLLLLLLLLLLL
+³¬Ê±ÖØ´«: seqnum = 2, acknum = -1, checksum = 64249, MMMMMMMMMMMMMMMMMMMM
+³¬Ê±ÖØ´«: seqnum = 3, acknum = -1, checksum = 61678, NNNNNNNNNNNNNNNNNNNN
+³¬Ê±ÖØ´«: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [32m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 1285, LLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºLLLLLLLLLLLLLLLLLLLL
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [0m1 [34m2 [32m3 [1;33m4 [1;33m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [32m3 [1;33m4 [34m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 64249, MMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºMMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºNNNNNNNNNNNNNNNNNNNN
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [0m1 [0m2 [0m3 [1;33m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+³¬Ê±ÖØ´«: seqnum = 2, acknum = -1, checksum = 64249, MMMMMMMMMMMMMMMMMMMM
+³¬Ê±ÖØ´«: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+·¢ËÍ·½Ã»ÓĞÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 2, checksum = 12849, /...................
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 3, acknum = -1, checksum = 61678, NNNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºOOOOOOOOOOOOOOOOOOOO
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [32m3 [1;33m4 [34m5 [0m6 [0m7 [0m
+
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 2, acknum = -1, checksum = 64249, MMMMMMMMMMMMMMMMMMMM
+³¬Ê±ÖØ´«: seqnum = 2, acknum = -1, checksum = 64249, MMMMMMMMMMMMMMMMMMMM
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+³¬Ê±ÖØ´«: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [32m3 [32m4 [34m5 [0m6 [0m7 [0m
+
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 2, acknum = -1, checksum = 64249, MMMMMMMMMMMMMMMMMMMM
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [34m5 [34m6 [34m7 [0m
+
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 56536, PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [34m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 53965, QQQQQQQQQQQQQQQQQQQQ
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 51394, RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 48831, SSSSSSSSSSSSSSSSSSSS
+·¢ËÍ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+Êı¾İĞ£Ñé´íÎó: seqnum = -999999, acknum = -1, checksum = 56536, PPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 53965, QQQQQQQQQQQQQQQQQQQQ
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ6£¬rcvbase=5
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 51394, RRRRRRRRRRRRRRRRRRRR
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ7£¬rcvbase=5
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [32m6 [1;33m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 48831, SSSSSSSSSSSSSSSSSSSS
+±¨ÎÄĞòºÅÖĞ¶Ï£¬½ÓÊÜ·½»º´æ±¨ÎÄĞòºÅ0£¬rcvbase=5
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+³¬Ê±ÖØ´«: seqnum = 5, acknum = -1, checksum = 56536, PPPPPPPPPPPPPPPPPPPP
+³¬Ê±ÖØ´«: seqnum = 7, acknum = -1, checksum = 51394, RRRRRRRRRRRRRRRRRRRR
+³¬Ê±ÖØ´«: seqnum = 0, acknum = -1, checksum = 48831, SSSSSSSSSSSSSSSSSSSS
+·¢ËÍ·½Ã»ÓĞÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -999999, acknum = 7, checksum = 12844, ....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 56536, PPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºPPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºQQQQQQQQQQQQQQQQQQQQ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºRRRRRRRRRRRRRRRRRRRR
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºSSSSSSSSSSSSSSSSSSSS
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½´°¿Ú£º[32m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [32m6 [1;33m7 [0m
+
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 7, acknum = -1, checksum = 51394, RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½´°¿Ú£º[32m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [32m6 [32m7 [0m
+
+³¬Ê±ÖØ´«: seqnum = 5, acknum = -1, checksum = 56536, PPPPPPPPPPPPPPPPPPPP
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 0, acknum = -1, checksum = 48831, SSSSSSSSSSSSSSSSSSSS
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 5, acknum = -1, checksum = 56536, PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½´°¿Ú£º[32m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [32m6 [32m7 [0m
+
+³¬Ê±ÖØ´«: seqnum = 5, acknum = -1, checksum = 56536, PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [34m1 [34m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 5, acknum = -1, checksum = 56536, PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 46260, TTTTTTTTTTTTTTTTTTTT
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [34m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 43689, UUUUUUUUUUUUUUUUUUUU
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 41118, VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+·¢ËÍ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 46260, TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºTTTTTTTTTTTTTTTTTTTT
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [1;33m3 [1;33m4 [1;33m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [1;33m2 [1;33m3 [1;33m4 [34m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 43689, UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºUUUUUUUUUUUUUUUUUUUU
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [0m1 [0m2 [1;33m3 [1;33m4 [1;33m5 [1;33m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 41118, VVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºVVVVVVVVVVVVVVVVVVVV
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [0m1 [0m2 [0m3 [1;33m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºWWWWWWWWWWWWWWWWWWWW
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [0m2 [1;33m3 [1;33m4 [34m5 [34m6 [0m7 [0m
+
+³¬Ê±ÖØ´«: seqnum = 3, acknum = -1, checksum = 41118, VVVVVVVVVVVVVVVVVVVV
+³¬Ê±ÖØ´«: seqnum = 4, acknum = -1, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 3, acknum = -1, checksum = 41118, VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [0m1 [0m2 [0m3 [1;33m4 [34m5 [34m6 [34m7 [0m
+
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 4, acknum = -1, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+³¬Ê±ÖØ´«: seqnum = 4, acknum = -1, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [34m5 [34m6 [34m7 [0m
+
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 4, acknum = -1, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 35976, XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [34m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 33405, YYYYYYYYYYYYYYYYYYYY
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [34m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 30834, ZZZZZZZZZZZZZZZZZZZZ
+·¢ËÍ·½´°¿Ú£º[34m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 29873, EOF                 
+·¢ËÍ·½´°¿Ú£º[1;33m0 [0m1 [0m2 [0m3 [0m4 [1;33m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 35976, XXXXXXXXXXXXXXXXXXXX
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºXXXXXXXXXXXXXXXXXXXX
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [1;33m1 [0m2 [0m3 [0m4 [0m5 [1;33m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½´°¿Ú£º[1;33m0 [34m1 [0m2 [0m3 [0m4 [0m5 [1;33m6 [1;33m7 [0m
+
+³¬Ê±ÖØ´«: seqnum = 6, acknum = -1, checksum = 33405, YYYYYYYYYYYYYYYYYYYY
+³¬Ê±ÖØ´«: seqnum = 7, acknum = -1, checksum = 30834, ZZZZZZZZZZZZZZZZZZZZ
+³¬Ê±ÖØ´«: seqnum = 0, acknum = -1, checksum = 29873, EOF                 
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 33405, YYYYYYYYYYYYYYYYYYYY
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºYYYYYYYYYYYYYYYYYYYY
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [1;33m1 [1;33m2 [0m3 [0m4 [0m5 [0m6 [1;33m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½´°¿Ú£º[1;33m0 [34m1 [34m2 [0m3 [0m4 [0m5 [0m6 [1;33m7 [0m
+
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 30834, ZZZZZZZZZZZZZZZZZZZZ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºZZZZZZZZZZZZZZZZZZZZ
+
+½ÓÊÕ·½´°¿Ú£º[1;33m0 [1;33m1 [1;33m2 [1;33m3 [0m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½´°¿Ú£º[1;33m0 [34m1 [34m2 [34m3 [0m4 [0m5 [0m6 [0m7 [0m
+
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 6, acknum = -1, checksum = 33405, YYYYYYYYYYYYYYYYYYYY
+³¬Ê±ÖØ´«: seqnum = 0, acknum = -1, checksum = 29873, EOF                 
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 7, acknum = -1, checksum = 30834, ZZZZZZZZZZZZZZZZZZZZ
+·¢ËÍ·½Ã»ÓĞÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 6, checksum = 12845, /...................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 29873, EOF                 
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºEOF                  
+
+½ÓÊÕ·½´°¿Ú£º[0m0 [1;33m1 [1;33m2 [1;33m3 [1;33m4 [0m5 [0m6 [0m7 [0m
+
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+²»ÊÇ´°¿ÚÄÚµÄ·Ö×é£¬ºöÂÔ: seqnum = 0, acknum = -1, checksum = 29873, EOF                 
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½´°¿Ú£º[0m0 [34m1 [34m2 [34m3 [34m4 [0m5 [0m6 [0m7 [0m
+
+******Ä£ÄâÍøÂç»·¾³******£ºÄ£ÄâÍøÂç»·¾³ÒÑ·¢ËÍÍêÓ¦ÓÃ²ãÊı¾İ£¬¹Ø±ÕÄ£ÄâÍøÂç»·¾³
+ÒÑ·¢ËÍÓ¦ÓÃ²ãMessage¸öÊı: 105
+·¢ËÍµ½ÍøÂç²ãÊı¾İPacket¸öÊı: 213
+ÍøÂç²ã¶ªÊ§µÄÊı¾İPacket¸öÊı: 22
+ÍøÂç²ãËğ»µµÄÊı¾İpakcet¸öÊı:24
+·¢ËÍµ½ÍøÂç²ãÈ·ÈÏPacket¸öÊı:167
+ÍøÂç²ã¶ªÊ§µÄÈ·ÈÏPacket¸öÊı: 21
+ÍøÂç²ãËğ»µµÄÈ·ÈÏPacket¸öÊı: 12
+

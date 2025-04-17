@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/AUIPC.asm" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BLT.asm" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/LH.asm" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/XOR.asm" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/risc-v-benchmark_ccab.asm" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/risc-v-分支相关测试.asm" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/risc-v-理想流水线测试.asm" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/risc-v-走马灯测试.asm" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/中断测试相关/risc-v单级中断测试程序.asm" charset="GBK" />
+  </component>
+</project>

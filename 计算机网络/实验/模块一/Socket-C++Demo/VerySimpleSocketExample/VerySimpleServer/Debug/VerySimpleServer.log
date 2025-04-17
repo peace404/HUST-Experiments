@@ -1,0 +1,7 @@
+﻿cl : 命令行  warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  Server.cpp
+C:\Users\23801\Desktop\计算机网络\实验\模块一\Socket-C++Demo\VerySimpleSocketExample\VerySimpleServer\Server.cpp(12,2): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\23801\Desktop\计算机网络\实验\模块一\Socket-C++Demo\VerySimpleSocketExample\VerySimpleServer\Server.cpp(54,30): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\23801\Desktop\计算机网络\实验\模块一\Socket-C++Demo\VerySimpleSocketExample\VerySimpleServer\Server.cpp(115,29): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+Server.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  VerySimpleServer.vcxproj -> C:\Users\23801\Desktop\计算机网络\实验\模块一\Socket-C++Demo\VerySimpleSocketExample\VerySimpleServer\Debug\VerySimpleServer.exe
